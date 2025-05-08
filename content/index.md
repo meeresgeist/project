@@ -1,6 +1,4 @@
 ---
-title: Welcome to Quartz
+title: 임주헌 블로그
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+물리학 좋아요
