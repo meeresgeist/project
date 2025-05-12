@@ -1,4 +1,7 @@
 ---
-title: 임주헌 블로그
+title: Record of Study
 ---
-물리학 좋아요
+Welcome to the **NewClear**.
+You can explore what I've studied. Find the note easily by explorer on left!
+
+If you have a question or feedback, please contact in instagram below.
